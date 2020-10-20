@@ -52,14 +52,14 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             
     [params.opengraph]
         [params.opengraph.twitter]
-            site = ""
+            site = "RenaudGagne.com"
             card = "summary_large_image"
             
     [params.defaultImage]
         [params.defaultImage.opengraph]
             enabled = false
             local = false
-            src = ""
+            src = "img/retrosupply-jLwVAUtLOAQ-unsplash.jpg"
             
 [menu]
     [[menu.main]]
@@ -68,12 +68,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         url = "/"
         weight = -100
         pre = "home"
-    [[menu.main]]
-        identifier = "about-cn"
-        name = "About"
-        url = "about"
-        weight = -90
-        pre = "user"
+
     [[menu.main]]
         identifier = "archives"
         name = "Archives"

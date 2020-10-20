@@ -1,18 +1,21 @@
 ---
-title: Introduction
-description: Anything worth doing is worth doing badly. — G. K. Chesterton
-date: 2020-10-17
-slug: introduction
-image: danielle-macinnes-IuLgi9PWETU-unsplash.jpg
+title: Practical Tips and Tricks to Master Your Inbox
+description: Email is a system that delivers other people's priorities to your attention. It's up to you to decide when that priority should be managed into your world. It's not the other way around. - Chris Brogan
+date: 2020-10-19
+draft: true
+slug: master-your-inbox
+image: liam-truong-YjWW9-VJlw4-unsplash.jpg
 categories:
-    - General
+    - Productivity
 tags:
-    - Stories
+    - Email
+    - Management
+    - Tips & Tricks
 ---
 
 ## Introduction
 
-Almost a decade ago, I owned renaudgagne.com...it costed me $9 CAD back then and I tried a few things here and there with it. Little did I know about how much I would miss it when it came under the ownership of domain scalpers. Lesson of the story: **own your name and never let it go...you never know when or why you would need it.** But now that it's back with me, I feel a warm comfort in knowing that I can now do something with my little corner of the internet...under my own name, rather than a catchy brand name kind of thing. 
+Have you ever had that feeling that the deluge of emails you are getting is out of control? That you are not completely sure that you have kept up with really important stuff because you feel overwhelmed by your inbox? If that's your case, welcome. This is a place for you.
 
 Now that I've got it back (literally today the 17th of October 2020), I'm going to make the most out of it by blogging and letting my creative juice flow by writing and sharing my thoughts on things. This whole blog is made using a technology that I became enamoured with this year. The JAMStack...so this isn't a Wordpress blog, this is bare metal code from the bottom up. It's pretty exciting for a geek like me.
 
@@ -26,4 +29,4 @@ Good question...as of today, I don't know. My MO is move fast and break stuff. T
 
 
 ## Credits
-<span>Photo by <a href="https://unsplash.com/@dsmacinnes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Danielle MacInnes</a> on <a href="https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<span>Photo by <a href="https://unsplash.com/@liamtruong?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Liam Truong</a> on <a href="https://unsplash.com/s/photos/mail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
