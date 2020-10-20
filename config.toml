@@ -1,4 +1,4 @@
-baseurl = "https://blissful-lalande-8b6b27.netlify.app"
+baseurl = "https://www.renaudgagne.com"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
