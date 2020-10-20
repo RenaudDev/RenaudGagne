@@ -8,15 +8,10 @@
     <header class="site-info">
         {{ with .Site.Params.sidebar.avatar }}
             <figure class="site-avatar">
-                {{ $avatar := resources.Get (.) }}
 
-                {{ if $avatar }}
-                    {{ $avatarResized := $avatar.Resize "300x300" }}
-                    <img src="{{ $avatarResized.RelPermalink }}" width="{{ $avatarResized.Width }}"
-                        height="{{ $avatarResized.Height }}" class="site-logo" loading="lazy" alt="Avatar">
-                {{ else }}
-                    {{ errorf "Failed loading avatar from %q" . }}
-                {{ end }}
+                    <img src="img/avatar.png" width="300px"
+                        height="300px" class="site-logo" loading="lazy" alt="Renaud Gagne">
+
 
                 <span class="emoji">{{ $.Site.Params.sidebar.emoji }}</span>
             </figure>
