@@ -20,7 +20,7 @@ Do you feel like sometimes we live in two realities?
 
 Sometimes, it seems like the 'second reality' takes over our mind and energy to the point where we feel depressed, crippled or hopeless. The worst part about that place is that our power to influence or change it is comparable to the influence that a sport fan has on a game...*very little*.
 
-On the other hand, in the 'first reality' you have incredible power to shape and direct it. Every interaction & every relationships can be transformed.
+On the other hand, in the 'first reality' you have incredible power to shape and direct it. Every interaction & every relationships can be transformed by our presence and intentions.
 
 ## Setting up a hierachy of attention...
 
@@ -28,10 +28,24 @@ Does that mean that we should only stick to our knitting, close all form of exte
 
 What would happen if 95% of your thoughts and energy were directed on what you can do now...in your home, with the people living on your street and in your city or village? There is an amazing Christian social teaching called *subsidiarity*...it is at the foundation of all western government. It goes like this:
 
-> The principle that a central authority should have a subsidiary function, performing only those tasks which cannot be performed at a more local level
+> The principle that a central authority should have a subsidiary function, performing only those tasks which cannot be performed at a more local level.
 
 {{< youtube 1NiRA6DL_CM >}}
 
-The point I am trying to make is that rather than playing sport fan and setting all our attention to what's going on a planetary scale or national scale...what if we started first in the family, then once we have set our house in order, move outward from there to our communities and beyond.
+
+The point I am trying to make is that rather than playing sport fan and setting all our attention to what's going on a planetary scale or national scale...what if we started first with ourselves, then in the first community (our family) **and then** once we have set our house in order, move outward from there to our community and beyond? 
+
+You think politics is important? Reality is that the mayor and the council of your town will have much more impact on you and the community than federal level politicians. They can build parks, they can landlock large areas so that property values and taxes goes up and crowd out young family who want to start on the property ladder from coming in and so on.
+
+There are times where collective action on a larger scale is called for, but this is an exception, not the rule. 
+
+## Conclusion
+
+I think it is high time for us to consider our diets of media. How much time do we spend thinking way beyond our sphere of influence and how productive is it? 
+
+**Do you agree or disagree?**
+
+Let me know in the comment below...
+
 ## Credits
 <span>Photo by <a href="https://unsplash.com/@romankraft?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Roman Kraft</a> on <a href="https://unsplash.com/s/photos/europe?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
