@@ -53,7 +53,7 @@ The problem with working from home is that you are one thought away from working
 
 Another big thing that is difficult is that working from home can be a very lonely thing. We need interpersonal contact with other people. Being away from people can be very good for productivity but it can be pretty bad for creativity.
 
-### 6. Internal Motivation
+### 6. Develop Internal Motivations
 
 Working from home is fundamentally about being internally motivated. In the workplace we are constantly motivated by external factors...but when it's just you and your screen for hours and hours on end, motivation can go down the drain fast.
 
