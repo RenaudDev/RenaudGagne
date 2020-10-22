@@ -17,11 +17,9 @@ Over the past 9 months, as COVID has raged around the world, millions and millio
 
 You need a radically higher level of self-awareness, self-management, and self-efficacy. There is an entirely new set of tools and techniques needed to stay focused and productive in an environment that probably wasn’t designed for it.
 
-Many have taken up the WFH (Work from Home) banner online to collect tips and tricks on this new frontier of personal productivity. But it can be difficult to collect and sort through those tips on top of everything else we’re already overwhelmed by. Here are my cliffnotes on how I managed working from home without going insane.
-
 ## What 7 years thought me...
 
-Ever since the beginning of our digital marketing agency, we have been working remotely. Over the years, I have tried a LOT of different strategies, tools, apps, and so on. One thing that I learned is that if you are not careful, **working from home will turn into living at work**. 
+Ever since the beginning of our digital marketing agency, we have been working remotely. Over the years, I have tried a LOT of different strategies, tools, apps, and so on. One thing that I learned is that if you are not careful, **working from home will turn into living at work**. Here are my cliffnotes on how I managed working from home without going insane.
 
 ### 1. Create Routines
 
