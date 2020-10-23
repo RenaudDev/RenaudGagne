@@ -1,6 +1,6 @@
 ---
 title: Sort Your Email Automatically Using Filters
-description: Get '#OneGoodIdea' today by reading this blog. All of that in 300 characters or less. Today we talk about sorting your inbox automatically using filters.
+description: Get '#OneGoodIdea' today by reading this blog. All of that in 200 words or less. Today we talk about sorting your inbox automatically using filters.
 date: 2020-10-23
 draft: false
 slug: sort-your-email-automatically
