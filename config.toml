@@ -24,7 +24,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
     [params.sidebar]
         emoji = "🚀"
         avatar = "/img/avatar.png"
-        subtitle = "Father, Anglican Lay Reader & Work From Home Productivity Enthusiast"
+        subtitle = "Husband, Father, Anglican Lay Reader & Work From Home Productivity Enthusiast"
         
     [params.article]
         math = false
