@@ -82,7 +82,7 @@ So when fighting the demons with your own strength or placating them isn't the a
 
 This is foolishness to the world yet thousands upon thousands of addicts find solace and recovery in that realization. That higher power, in His character, is very "Jesus-y" in the AA format. Because he goes all the way down to the margin and in his mercy gives comfort and grace...bringing people back from the dead, leading them to new life. 
 
-AA's know they are powerless against their addictions and demons **unless** they submit their illusion of control. 
+AA's know they are powerless against their addictions and demons **unless** they let go of their illusion of control. 
 
 > “I am the way, and the truth, and the life.
 
