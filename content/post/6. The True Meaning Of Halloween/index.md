@@ -94,6 +94,8 @@ Halloween is the day where Christians laugh at the power of death, for it has lo
 
 "Oh death, where is your sting?"
 
+{{< youtube LyfXTBdegQM >}}
+
 ## Credits
 
 <span>Photo by <a href="https://unsplash.com/@andyoneru?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andyone</a> on <a href="https://unsplash.com/s/photos/halloween?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
